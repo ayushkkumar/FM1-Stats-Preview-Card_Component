@@ -28,8 +28,8 @@ Users should be able to view the optimal layout depending on their device's scre
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/ayushkkumar/FM1-Stats-Preview-Card_Component)
+- Live Site URL: [Add live site URL here](https://ayushkkumar.github.io/FM1-Stats-Preview-Card_Component/)
 
 <br>
 
